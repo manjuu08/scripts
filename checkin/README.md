@@ -37,6 +37,6 @@
 
 4. サポート・不具合報告 (Support)
 
-不具合の報告や機能改善の提案は、GitHub の Issues または Greasy Fork のフィードバック機能からご連絡ください。
+不具合の報告や機能改善の提案は、GitHub の Issues のフィードバック機能からご連絡ください。
 
 Maintained by [manjuu08](https://github.com/manjuu08)
