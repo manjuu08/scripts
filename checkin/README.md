@@ -4,7 +4,7 @@
 
 🔗 インストール (Installation)
 
-[Greasy Fork からインストールする](https://greasyfork.org/ja/scripts/585187)
+[インストール](https://github.com/manjuu08/scripts/raw/main/checkin/auto.user.js)
 1. 機能概要 (Features)
 
     衛生チェックの自動化: チェックボックスを自動的に全選択。
