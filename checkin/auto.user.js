@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         衛生報告入力自動化ツール
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/manjuu08/scripts
 // @version      2.3
 // @description  衛生報告入力の自動化ツール。確認者IDの自動抽出・選択機能に加え、体温自動入力や個人ID設定により、日々の報告業務を効率化します。
 // @author       manjuu08
@@ -12,6 +12,8 @@
 // @homepage    https://github.com/manjuu08/checkin
 // @supportURL  https://github.com/manjuu08/checkin/issues
 // @license      MIT
+// @updateURL   https://github.com/manjuu08/scripts/raw/main/checkin/auto.user.js
+// @downloadURL https://github.com/manjuu08/scripts/raw/main/checkin/auto.user.js
 // ==/UserScript==
 (function() {
     'use strict';
