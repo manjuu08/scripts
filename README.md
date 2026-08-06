@@ -8,8 +8,8 @@
 
 ## 📦 スクリプト一覧
 
-| スクリプト名 | 概要 | GreasyFork | GitHub (Raw) |
-| :--- | :--- | :--- | :--- |
+| スクリプト名 | 概要 | GitHub (Raw) |
+| :--- | :--- | :--- |
 | [衛生報告入力自動化ツール](./checkin) | 衛生報告フォームの入力業務を効率化する | [インストール]( https://github.com/manjuu08/scripts/raw/main/checkin/auto.user.js) |
 
 ---
