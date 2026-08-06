@@ -9,8 +9,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
-// @homepage    https://github.com/manjuu08/checkin
-// @supportURL  https://github.com/manjuu08/checkin/issues
+// @homepage    https://github.com/manjuu08/scripts
+// @supportURL  https://github.com/manjuu08/scripts/issues
 // @license      MIT
 // @updateURL   https://github.com/manjuu08/scripts/raw/main/checkin/auto.user.js
 // @downloadURL https://github.com/manjuu08/scripts/raw/main/checkin/auto.user.js
