@@ -11,7 +11,6 @@
 | スクリプト名 | 概要 | GreasyFork | GitHub (Raw) |
 | :--- | :--- | :--- | :--- |
 | [衛生報告入力自動化ツール](./checkin) | 衛生報告フォームの入力業務を効率化する | [インストール](https://greasyfork.org/ja/scripts/585187) | [インストール]( https://github.com/manjuu08/scripts/raw/main/checkin/auto.user.js) |
-| [LMS 正誤/選択問題一括入力](./filler) | LMSでのテスト解答入力を自動化・効率化する | [インストール](https://greasyfork.org/ja/scripts/585490) | [インストール]( https://github.com/manjuu08/scripts/raw/main/filler/auto.user.js) |
 
 ---
 
